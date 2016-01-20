@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://git.popcorntime.io/stash/scm/mir/chromecast-js.git"
+    "url": "https://github.com/captainyarr/chromecast-js.git"
   },
   "keywords": [
     "chromecast",
@@ -16,12 +16,12 @@
     "torrentv"
   ],
   "author": {
-    "name": "Popcorn Time - ddaf",
+    "name": "Original Source Popcorn Time - ddaf",
     "email": "ddaf@popcorntime.io"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://git.popcorntime.io/jira/issues"
+    "url": "https://github.com/captainyarr/chromecast-js/issues"
   },
   "dependencies": {
     "castv2-client": "^1.1.0",
